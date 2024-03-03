@@ -1,6 +1,8 @@
 # YoutTube-Tutorial
 This repo contains codes covered in the youtube tutorials. 
 
+To run the Groq RAG example code, use the command `streamlit run langchain_groq_rag.py`
+
 | Video link | Notebook |
 | --- | ----------- |
 | [Getting Started with Groq API](https://youtu.be/S53BanCP14c) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://tinyurl.com/2nxdv2m8)|
