@@ -11,7 +11,7 @@ To run the Groq RAG example code, use the command `streamlit run langchain_groq_
 | [Run Mixtral 8x7B MoE in Google Colab](https://youtu.be/Zo3CTapKJ4I) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://tinyurl.com/2nn5snb4)|
 | [GEMINI Pro with LangChain - Chat, MultiModal and Chat with your Documents](https://youtu.be/7h8ZHSkAkas) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/28bw3ntv)|
 | [Supercharge Your RAG with Contextualized Late Interactions](https://youtu.be/xTzUn3G9YA0) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/czk85xfr)|
-| [GEMINI Pro with LangChain - Chat, MultiModal and Chat with your Documents](https://youtu.be/7h8ZHSkAkas) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/28bw3ntv)|
+| [Advanced RAG with ColBERT in LangChain and LlamaIndex](https://youtu.be/kEgeegk9iqo) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/4dte2njt)|
 
 
 
