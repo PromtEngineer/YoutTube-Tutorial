@@ -12,6 +12,8 @@ To run the Groq RAG example code, use the command `streamlit run langchain_groq_
 | [GEMINI Pro with LangChain - Chat, MultiModal and Chat with your Documents](https://youtu.be/7h8ZHSkAkas) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/28bw3ntv)|
 | [Supercharge Your RAG with Contextualized Late Interactions](https://youtu.be/xTzUn3G9YA0) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/czk85xfr)|
 | [Advanced RAG with ColBERT in LangChain and LlamaIndex](https://youtu.be/kEgeegk9iqo) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/4dte2njt)|
+| [Claude 3 Introduces Function Calling and Tool Usage](https://youtu.be/fDErWDOT4XE) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/y5kefhvn)|
+
 
 
 
