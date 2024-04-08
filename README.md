@@ -13,6 +13,8 @@ To run the Groq RAG example code, use the command `streamlit run langchain_groq_
 | [Supercharge Your RAG with Contextualized Late Interactions](https://youtu.be/xTzUn3G9YA0) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/czk85xfr)|
 | [Advanced RAG with ColBERT in LangChain and LlamaIndex](https://youtu.be/kEgeegk9iqo) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/4dte2njt)|
 | [Claude 3 Introduces Function Calling and Tool Usage](https://youtu.be/fDErWDOT4XE) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/y5kefhvn)|
+| [Groq Now Supports Function Calling]|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/5n9y2f2y)|
+
 
 
 
