@@ -16,6 +16,8 @@ To run the Groq RAG example code, use the command `streamlit run langchain_groq_
 | [Groq Now Supports Function Calling](https://youtu.be/ybau-0ZIsMc)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/5n9y2f2y)|
 | [Create Financial Agents with Vision 👀 - Powered by Claude 3 Haiku & Opus](https://youtu.be/a5OW5UAyC3E)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/56krc8az)|
 | [MIXTRAL 8x22B MOE: The BEST Open LLM Just got better - RAG and Function Calling](https://youtu.be/Zn7S5mLfkrc)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/b5h9v7w2)|
+| [Insanely Fast LLAMA-3 on Groq Playground and API for FREE](https://youtu.be/ySwJT3Z1MFI)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/57yhf26h)|
+
 
 
 
