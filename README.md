@@ -17,7 +17,7 @@ To run the Groq RAG example code, use the command `streamlit run langchain_groq_
 | [Create Financial Agents with Vision 👀 - Powered by Claude 3 Haiku & Opus](https://youtu.be/a5OW5UAyC3E)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/56krc8az)|
 | [MIXTRAL 8x22B MOE: The BEST Open LLM Just got better - RAG and Function Calling](https://youtu.be/Zn7S5mLfkrc)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/b5h9v7w2)|
 | [Insanely Fast LLAMA-3 on Groq Playground and API for FREE](https://youtu.be/ySwJT3Z1MFI)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/57yhf26h)|
-| [SmolAgents: Production Ready Agents with Minimal Abstraction]([https://youtu.be/ySwJT3Z1MFI](https://youtu.be/icRKf_Mvmt8))|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/c7ecntbz)|
+| [SmolAgents: Production Ready Agents with Minimal Abstraction](https://youtu.be/icRKf_Mvmt8)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/c7ecntbz)|
 
 
 
